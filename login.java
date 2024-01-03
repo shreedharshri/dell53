@@ -1,3 +1,3 @@
 shreedhar
 
-public class void main[a=10,a=20,a=30]
+public class void main[a=15,a=20,a=30]
